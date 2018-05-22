@@ -1,0 +1,5 @@
+﻿  mater.cpp
+d:\20172104251\visual-studio-2015\mater\mater\mater.cpp(37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\20172104251\visual-studio-2015\mater\mater\mater.cpp(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  mater.vcxproj -> D:\20172104251\visual-studio-2015\mater\Debug\mater.exe
+  mater.vcxproj -> D:\20172104251\visual-studio-2015\mater\Debug\mater.pdb (Full PDB)
